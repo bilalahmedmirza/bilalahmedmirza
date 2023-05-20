@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer-1200x900.jpg">
 
 - 🌱 I’m currently learning **Mobile App Development** using **Kotlin.**
-- 
+
 - 💻 I have studied the following courses in my degree:
 
     - 💎 Fundamentals of Programming
