@@ -2,7 +2,7 @@
 <p align="center">A passionate App Developer at GCU, Lahore who aims to build innovative apps to transform digital world.</p>
 <img align="right" alt="Coding" width="400" src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer-1200x900.jpg">
 
-- 🌱 I’m currently learning **Mobile App Development** using **Kotlin**
+- 🌱 I’m currently learning **Mobile App Development** using **Kotlin.**
 <!-- - 👯 I’m currently working on a freelance project with **NextJS** and **Material UI**. -->
 
 - 💻 Courses I have studied during my degree include:
