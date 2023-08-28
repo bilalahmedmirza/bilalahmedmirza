@@ -3,7 +3,7 @@
 
 I am a Native Android Developer.
 
-- 🌱 I’m currently learning **MVVM** and how to add **Room Database** to my apps.
+- 🌱 I’m currently learning **MVVM** and how to integrate **Room Database** in my apps.
 - 🔭 I’m currently working on a **News App.**
 - 👯 I’m looking to collaborate on my **Final Year Project.**
 - 📫 Connect with me ➞ **bilalahmedmirza419@gmail.com**
