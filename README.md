@@ -3,6 +3,6 @@
 
 I am a Native Android Developer.
 
-- 🌱 I’m currently learning how to use **Retrofit** in my apps to make network requests to retrieve data from API's and websites.
+- 🌱 I’m currently learning how to use **Retrofit** in my apps to retrieve data from API's and websites.
 - 👯 I’m looking to collaborate on my **Final Year Project.**
 - 📫 Connect with me ➞ **bilalahmedmirza419@gmail.com**
