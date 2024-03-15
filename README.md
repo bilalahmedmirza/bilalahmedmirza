@@ -3,6 +3,6 @@
 
 I am a Mobile Applcation Developer.
 
-- 🌱 I’m currently making a **Spotify clone** using **Firebase**.
+- 🌱 I’m currently working on a project using **Dependency Injection** and **Firebase**.
 - 👯 I’m looking to collaborate on my **Final Year Project**.
 - 📫 Connect with me ➞ **bilalahmedmirza419@gmail.com**
