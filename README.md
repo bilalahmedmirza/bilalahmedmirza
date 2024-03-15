@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Bilal Ahmed Mirza
 ### Welcome to my Github Profile!
 
-I am a Native Android Developer.
+I am a Mobile Applcation Developer.
 
 - 🌱 I’m currently learning how to use **Retrofit** in my apps to retrieve data from API's and websites.
 - 👯 I’m looking to collaborate on my **Final Year Project.**
