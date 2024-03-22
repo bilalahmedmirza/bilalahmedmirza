@@ -3,6 +3,6 @@
 
 I am a Mobile Application Developer.
 
-- 🌱 I’m currently working on a project using **Dependency Injection** and **Firebase**.
+- 🌱 I’m currently learning how to make mobile apps using **Flutter**.
 - 👯 I’m looking to collaborate on my **Final Year Project**.
 - 📫 Connect with me ➞ **bilalahmedmirza419@gmail.com**
