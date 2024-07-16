@@ -3,6 +3,5 @@
 
 I am a Mobile Application Developer.
 
-- 🌱 I’m currently learning how to develop mobile apps using **Flutter**.
-- 👯 I’m looking to collaborate on my **Final Year Project**.
+- 🌱 I’m currently developing my **Final Year Project**.
 - 📫 Connect with me ➞ **bilalahmedmirza419@gmail.com**
