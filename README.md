@@ -3,5 +3,5 @@
 
 I am a Mobile Application Developer.
 
-- 🌱 I’m currently working on my **Final Year Project**.
+- 🌱 I’m currently working as an **Mobile Application Developer**.
 - 📫 Connect with me ➞ **bilalahmedmirza419@gmail.com**
